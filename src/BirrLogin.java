@@ -3,7 +3,6 @@ import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.*;
 import org.junit.Test;
 
-import javax.jws.soap.SOAPBinding;
 
 /**
  * Created by vyomkeshjha on 04/04/16.
